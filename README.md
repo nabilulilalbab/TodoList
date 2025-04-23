@@ -83,15 +83,4 @@ Berikut adalah beberapa screenshot dari tampilan aplikasi:
 ---
 
 © 2025 – Dibuat dengan semangat belajar Golang 💻
-```
-
----
-
-Kalau sudah cocok, langsung aja simpan ke `README.md` dan push ke GitHub:
-
-```bash
-git add README.md
-git commit -m "update README with screenshots"
-git push
-```
 
