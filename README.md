@@ -19,6 +19,21 @@ Aplikasi to-do list sederhana menggunakan **Golang**, **PostgreSQL**, dan **HTML
 - HTML Template
 - (Opsional) Tailwind CSS
 
+## Tampilan Antarmuka
+
+Berikut adalah beberapa screenshot dari tampilan aplikasi:
+
+- **Halaman Utama**  
+  ![Index](screenshot_23042025_083615.jpg)
+
+- **Tambah Tugas**  
+  ![Create](screenshot_23042025_083633.jpg)
+
+- **Edit Tugas**  
+  ![Edit](screenshot_23042025_083701.jpg)
+  ![Index](screenshot_23042025_083646.jpg)
+  ![Index](screenshot_23042025_083718.jpg)
+
 ## Struktur Folder
 
 ```txt
@@ -70,4 +85,13 @@ Aplikasi to-do list sederhana menggunakan **Golang**, **PostgreSQL**, dan **HTML
 © 2025 – Dibuat dengan semangat belajar Golang 💻
 ```
 
-Kalau kamu mau gue push-in juga sekalian ke GitHub atau generate lisensi `.gitignore`, tinggal bilang. Mau versi Bahasa Inggris juga bisa!
+---
+
+Kalau sudah cocok, langsung aja simpan ke `README.md` dan push ke GitHub:
+
+```bash
+git add README.md
+git commit -m "update README with screenshots"
+git push
+```
+
